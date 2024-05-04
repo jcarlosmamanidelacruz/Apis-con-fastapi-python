@@ -22,7 +22,7 @@ Para mejorar la experiencia visual, se ha implementado una página HTML utilizan
 
 Clona este repositorio en tu máquina local utilizando el siguiente comando:
 
-	git clone <url_del_repositorio>
+	git clone https://github.com/jcarlosmamanidelacruz/Apis-con-fastapi-python.git
 
 2.- Configurar la Base de Datos:
 
